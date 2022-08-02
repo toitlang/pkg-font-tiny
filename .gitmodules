@@ -1,0 +1,3 @@
+[submodule "third_party/toit-font-tools"]
+	path = third_party/toit-font-tools
+	url = https://github.com/toitlang/toit-font-tools.git
