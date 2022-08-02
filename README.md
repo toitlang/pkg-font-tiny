@@ -1,4 +1,4 @@
-#Font Tiny
+# Font Tiny
 
 This is a Toit version of the very small font by Matthew Welch from
 http://www.squaregear.net/fonts/tiny.shtml
